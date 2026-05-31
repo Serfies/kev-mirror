@@ -4773,6 +4773,7 @@
 "Wholesale Suite","Wholesale Lead Capture Plugin for WooCommerce","CVE-2026-27542","2026-02-20T00:00:00Z"
 "nginxui","nginx_ui","CVE-2026-27944","2026-03-19T00:00:00Z"
 "qwik","qwik","CVE-2026-27971","2026-04-01T00:00:00Z"
+"gradio_project","gradio","CVE-2026-28414","2026-05-31T00:00:00Z"
 "opendcim","opendcim","CVE-2026-28515","2026-05-14T00:00:00Z"
 "opendcim","opendcim","CVE-2026-28517","2026-05-14T00:00:00Z"
 "metinfo","metinfo","CVE-2026-29014","2026-04-25T00:00:00Z"
