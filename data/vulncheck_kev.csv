@@ -4896,6 +4896,7 @@
 "Jenkins","jenkins","CVE-2026-53435","2026-06-15T00:00:00Z"
 "Digital Knowledge","KnowledgeDeliver","CVE-2026-5426","2026-05-25T00:00:00Z"
 "LiteSpeed","cPanel Plugin","CVE-2026-54420","2026-06-01T00:00:00Z"
+"langflow","langflow","CVE-2026-55255","2026-06-26T00:00:00Z"
 "chrisvrichardson","MapPress Maps","CVE-2026-56011","2026-06-19T00:00:00Z"
 "codedropz","drag_and_drop_multiple_file_upload_-_contact_form_7","CVE-2026-5718","2026-04-20T00:00:00Z"
 "Unknown","Custom css-js-php","CVE-2026-6433","2026-06-23T00:00:00Z"
