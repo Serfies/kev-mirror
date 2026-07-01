@@ -4897,6 +4897,7 @@
 "veronalabs","wp_statistics","CVE-2026-5231","2026-04-17T00:00:00Z"
 "gogs","gogs","CVE-2026-52806","2026-06-28T00:00:00Z"
 "Google","Dawn","CVE-2026-5281","2026-03-31T00:00:00Z"
+"gogs","gogs","CVE-2026-52813","2026-06-26T00:00:00Z"
 "Jenkins","jenkins","CVE-2026-53435","2026-06-15T00:00:00Z"
 "Digital Knowledge","KnowledgeDeliver","CVE-2026-5426","2026-05-25T00:00:00Z"
 "LiteSpeed","cPanel Plugin","CVE-2026-54420","2026-06-01T00:00:00Z"
