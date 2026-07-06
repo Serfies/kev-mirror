@@ -4738,6 +4738,7 @@
 "Ivanti","Endpoint Manager Mobile (EPMM)","CVE-2026-1281","2026-01-29T00:00:00Z"
 "Ivanti","Endpoint Manager Mobile (EPMM)","CVE-2026-1340","2026-02-04T00:00:00Z"
 "WPvivid","WPvivid Backup and Migration Plugin","CVE-2026-1357","2026-02-11T00:00:00Z"
+"quantumcloud","wpbot","CVE-2026-13731","2026-07-01T00:00:00Z"
 "franchidesign","Slider Future","CVE-2026-1405","2026-04-06T00:00:00Z"
 "Stuart Bates","WP Responsive Images","CVE-2026-1557","2026-04-02T00:00:00Z"
 "gvectors","wpforo_forum","CVE-2026-1581","2026-02-20T00:00:00Z"
