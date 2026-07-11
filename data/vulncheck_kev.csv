@@ -4809,6 +4809,7 @@
 "frangoteam","fuxa","CVE-2026-25939","2026-06-12T00:00:00Z"
 "Microsoft",".net","CVE-2026-26127","2026-04-13T00:00:00Z"
 "ghost","ghost","CVE-2026-26980","2026-05-21T00:00:00Z"
+"Progress","sharefile_storage_zones_controller","CVE-2026-2699","2026-07-10T00:00:00Z"
 "mjdm","majordomo","CVE-2026-27174","2026-04-18T00:00:00Z"
 "mjdm","majordomo","CVE-2026-27175","2026-04-13T00:00:00Z"
 "Wholesale Suite","Wholesale Lead Capture Plugin for WooCommerce","CVE-2026-27540","2026-02-20T00:00:00Z"
